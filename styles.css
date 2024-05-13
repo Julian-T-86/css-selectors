@@ -5,7 +5,7 @@ h1 {
 }
 
 body {
-    background-image: url("/Cheat Sheet/OIP.jpg");
+    background-image: url("OIP.jpg");
     background-size: cover;
 }
 table {
