@@ -1,0 +1,38 @@
+h1 {
+    opacity: 0.6;
+    position: sticky;
+    top: 0;
+}
+
+body {
+    background-image: url("/Cheat Sheet/OIP.jpg");
+    background-size: cover;
+}
+table {
+    border-top: 3px solid rgb(245,200,245);
+    border-left: 3px solid rgb(245,200,245);
+    border-right: 3px solid rgb(245,200,245);
+    border-bottom: 3px solid rgb(245,200,245);
+    background-color: beige;
+    opacity: 0.8;
+    
+}
+th {
+    text-align: left;
+    border-bottom: 3px double rgb(245,200,180);
+    background-color: rgb(186, 119, 248);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    position: sticky;
+    top: 0;
+}
+
+td {
+    border: 2px rgb(255, 192, 250) solid;
+    
+}
+
+footer {
+    padding: 20px;
+    padding-left: 0;
+}
